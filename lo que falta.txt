@@ -1,0 +1,10 @@
+DNS alguna prueba
+Virtual host
+SSH
+GEnerar clave publica y privada
+SCP
+FTP
+Uso de git comandos
+
+
+6 de Diciembre
